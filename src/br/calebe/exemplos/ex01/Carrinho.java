@@ -3,7 +3,7 @@ package br.calebe.exemplos.ex01;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Carrinho {
+public class Carrinho { 
 
     private List<Produto> produtos;
 
